@@ -132,15 +132,10 @@ h1 {
   margin-bottom: 6px;
 }
 
-.bajada, .pista {
+.bajada {
   color: var(--texto-suave);
   font-size: 0.94rem;
   margin-bottom: 20px;
-}
-
-.pista {
-  color: var(--verde);
-  font-weight: 500;
 }
 
 .grid-sobres {
@@ -249,14 +244,6 @@ h1 {
   font-weight: 700;
   text-transform: uppercase;
   color: #7d6b57;
-}
-
-.marco-spotify {
-  border-radius: 12px;
-  overflow: hidden;
-  border: 2px solid var(--azul);
-  box-shadow: 6px 6px 0px var(--verde);
-  background: var(--tarjeta);
 }
 
 .bloc-caja {
@@ -422,4 +409,4 @@ h1 {
   font-size: 0.82rem;
   font-weight: 700;
   cursor: pointer;
-  }
+}
